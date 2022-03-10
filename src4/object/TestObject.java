@@ -5,6 +5,8 @@ public class TestObject {
         System.out.println("stu's name:"+stu.getName());
         System.out.println("stu's age:"+stu.getAge());
         System.out.println("--------------------------");
+        //stu's name:张三
+        //stu's age:19
 
         //---------------------------------------------
         //equal
@@ -18,5 +20,7 @@ public class TestObject {
         //对象引用，内存地址相同，相等，返回true
         Student student_3=(Student) student_1;
         System.out.println(student_1.equals(student_3));
+        //false
+        //true
     }
 }
