@@ -9,7 +9,7 @@ public class SingletonPattern {
 }
 
 class Singeton{
-    //懒汉式
+    //饿汉式
 //    private static Singeton singleton = new Singeton();
 //    private Singeton(){
 //        System.out.println("hello");
@@ -19,7 +19,7 @@ class Singeton{
 //        return singleton;
 //    }
 
-    //饿汉式 -- 同步锁
+    //懒汉式 -- 同步锁
     private static Singeton singeton;
     private Singeton(){
         System.out.println("hello");
