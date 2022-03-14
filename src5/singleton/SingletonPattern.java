@@ -31,7 +31,7 @@ class Singeton{
         return singeton;
     }
 
-    //饿汉式 -- 双重检查锁
+    //懒汉式 -- 双重检查锁
 //    private static Singeton singeton;
 //    private Singeton(){
 //        System.out.println("hello");
