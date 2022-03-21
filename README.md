@@ -9,4 +9,6 @@ java语言基础[src](https://github.com/cuiyungao/JavaCodeExamples/tree/master/
 
 设计模式导论(单例模式，三种工厂模式)[src5](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src5)
 
+软件测试及代码质量保障[src5](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src6)
+
 Good luck!
