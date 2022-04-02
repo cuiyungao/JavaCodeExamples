@@ -6,4 +6,4 @@ description: 10种设计模式
 
 课程中共涉及10种设计模式，其中7种来自GOF23，其它3种分别是数据访问对象模式、MVC模式、生产者消费者模式。如图1所示，表格中红色字体是会涉及的GOF设计模式。
 
-![图1. 设计模式的分类](.gitbook/assets/image.png)
+![图1. 设计模式的分类](../.gitbook/assets/image.png)
