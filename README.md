@@ -17,5 +17,7 @@ java语言基础[src](https://github.com/cuiyungao/JavaCodeExamples/tree/master/
 
 MVC、Swing图形用户界面[src9](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src9)
 
+Thread、生产者与消费者模式[src10](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src10)
+
 
 Good luck!
