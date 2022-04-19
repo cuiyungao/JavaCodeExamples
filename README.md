@@ -19,7 +19,7 @@ MVC、Swing图形用户界面[src9](https://github.com/cuiyungao/JavaCodeExample
 
 Thread、生产者与消费者模式[src10](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src10)
 
-泛型与反射、模板模式[src10](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src11)
+泛型与反射、模板模式[src11](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src11)
 
 
 Good luck!
