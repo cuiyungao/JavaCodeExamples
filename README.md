@@ -21,5 +21,6 @@ Thread、生产者与消费者模式[src10](https://github.com/cuiyungao/JavaCod
 
 泛型与反射、模板模式[src11](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src11)
 
+网络编程、观察者模式[src12](https://github.com/cuiyungao/JavaCodeExamples/tree/master/src12)
 
 Good luck!
